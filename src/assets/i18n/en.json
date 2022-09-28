@@ -212,42 +212,42 @@
     {
       "Title": "simple-HIS-system",
       "Description": "project performs various functions like Addition, removal, and update in the patient.",
-      "ghLink": "https://github.com/MuhmmadAwd/simple-HIS-system",
-      "demoLink": "https://muhmmadawd.github.io/simple-HIS-system/",
+      "ghLink": "https://github.com/AhmedMobasher/simple-HIS-system",
+      "demoLink": "https://AhmedMobasher.github.io/simple-HIS-system/",
       "Technologies": ["javaScript", "webpack", "knockout js", "Bootstrap"]
     },
     {
       "Title": "js-warDeckGame",
       "Description": "card game performs various functions like draw cards, shuffle, compare the card then checkWinner .",
-      "ghLink": "https://github.com/MuhmmadAwd/js-warDeckGame",
+      "ghLink": "https://github.com/AhmedMobasher/js-warDeckGame",
       "demoLink": "https://war-deck.netlify.app/",
       "Technologies": [ "javaScript", "CSS", "HTML"]
     },
     {
       "Title": "calculator",
       "Description": "OOP calculator performs basic calculation functions.",
-      "ghLink": "https://github.com/MuhmmadAwd/calculator",
+      "ghLink": "https://github.com/AhmedMobasher/calculator",
       "demoLink": "https://js-calculater.netlify.app/",
       "Technologies": ["javaScript", "OOP", "CSS", "HTML"]
     },
     {
       "Title": "slider",
       "Description": "pure javaScript slider with get Prevues and next slide functionality.",
-      "ghLink": "https://github.com/MuhmmadAwd/pureSlider",
+      "ghLink": "https://github.com/AhmedMobasher/pureSlider",
       "demoLink": "https://pureslider.netlify.app",
       "Technologies": ["javaScript", "CSS", "Git"]
     },
     {
       "Title": "iPortfolio Clone",
       "Description": "bootstrap template with 6 servals sections and pretty design.",
-      "ghLink": "https://github.com/MuhmmadAwd/iPortfolioClone",
+      "ghLink": "https://github.com/AhmedMobasher/iPortfolioClone",
       "demoLink": "https://iportfolioclone.netlify.app",
       "Technologies": ["bootstrap", "CSS", "HTML"]
     },
     {
       "Title": "bezel clone",
       "Description": "bootstrap template with 6 servals sections and pretty design.",
-      "ghLink": "https://github.com/MuhmmadAwd/bootstrapExam",
+      "ghLink": "https://github.com/AhmedMobasher/bootstrapExam",
       "demoLink": "https://bootstrap7template.netlify.app/",
       "Technologies": ["bootstrap", "CSS", "HTML"]
     }

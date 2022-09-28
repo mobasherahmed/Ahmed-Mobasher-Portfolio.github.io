@@ -12,7 +12,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'Muhmmad Awd-portfolio';
+  title = 'Ahmed Mobasher-portfolio';
   
   constructor(
     private titleService: Title,
@@ -27,11 +27,11 @@ export class AppComponent implements OnInit{
     this.languageService.initLanguage()
 
 
-    this.titleService.setTitle( "Muhmmad Awd | Full-stack Developer" );
+    this.titleService.setTitle( "Ahmed Mobasher | Senior Frontend Developer" );
 
     this.metaService.addTags([
       {name: 'keywords', content: 'Frontend, backend, full stack, angular, asp.net, software, developer'},
-      {name: 'description', content: 'angular portfolio for muhmmad awd'},
+      {name: 'description', content: 'angular portfolio for ahmed mobasher'},
     ]);
     
     
