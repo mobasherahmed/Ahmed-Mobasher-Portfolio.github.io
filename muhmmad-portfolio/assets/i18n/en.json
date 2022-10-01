@@ -1,0 +1,259 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "AhmedMobasher_Resume.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "A passionate frontend developer with <span class='underline'>+4 year of experience</span> in web development. A fast and efficient learner with deep understanding and a passion for software development.",
+  "Banner.ActionBtn": "Download Resume",
+
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "Hello! My name is <span class='underline'> Ahmed Mobasher </span> graduated from faculty of computers & information zagazig university in 2017, After I had finished my militry period in 2019 I have started my career as a frontend developer at <span class='underline'> Meits Techonlogy </span> .",
+    "Fast-forward to today, and I’ve had a good jounry while working at <span class='underline'> ITWORX Education </span> , <span class='underline'> Softec Techologies </span> where I learned a lot about <span class='underline'> Agile Methodology  </span> and how to write a <span class='underline'> Clean Code  </span> and building many websites and projects to practice our knowledge ",
+    "Here are a few technologies I’ve been working with recently:"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Meits Technology",
+      "Title": "Frontend Developer",
+      "Date": "April 2019 - Jun 2020",
+      "Description": [
+        "Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout.",
+        "Developed designs to meet specific requirements such as quick-loading sites with particular layouts.",
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources."
+      ]
+    },
+    {
+      "Tab": "ITWORX Education",
+      "Title": "Frontend Developer",
+      "Date": "Jul 2020 - Jun 2021",
+      "Description": [
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout.",
+        "Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources.",
+        "Verified all web-based products fulfilled prescribed project needs through direct interaction with stakeholders.",
+        "Pinpointed user experience issues to devise targeted suggestions for improving user experience.",
+        "Developed designs to meet specific requirements such as quick-loading sites with particular layouts."
+      ]
+    },
+    {
+      "Tab": "Softec International",
+      "Title": "Senior Frontend Developer",
+      "Date": "Jun 2021 - April 2022",
+      "Description": [
+        "Developed designs to meet specific requirements such as quick-loading sites with particular layouts.",
+        "Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout.",
+        "Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources.",
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Verified all web-based products fulfilled prescribed project needs through direct interaction with stakeholders.",
+        "Pinpointed user experience issues to devise targeted suggestions for improving user experience."
+      ]
+    },
+    {
+      "Tab": "Exalt Technologies",
+      "Title": "Senior Frontend Developer",
+      "Date": "April 2022 - Present ",
+      "Description": [
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout.",
+        "Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources.",
+        "Verified all web-based products fulfilled prescribed project needs through direct interaction with stakeholders.",
+        "Pinpointed user experience issues to devise targeted suggestions for improving user experience.",
+        "Verified all web-based products fulfilled prescribed project needs through direct interaction with stakeholders."
+      ]
+    },
+    {
+      "Tab": "Peaxy,Inc",
+      "Title": "Senior Frontend Developer",
+      "Date": "April 2022 - Present ",
+      "Description": [
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout.",
+        "Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources.",
+        "Verified all web-based products fulfilled prescribed project needs through direct interaction with stakeholders.",
+        "Pinpointed user experience issues to devise targeted suggestions for improving user experience."
+      ]
+    },
+    {
+      "Tab": "Geidea",
+      "Title": "Senior Frontend Developer",
+      "Date": "Sep 2022 - Present ",
+      "Description": [
+        "Verified all web-based products fulfilled prescribed project needs through direct interaction with stakeholders.",
+        "Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources.",
+        "Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout.",
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Pinpointed user experience issues to devise targeted suggestions for improving user experience."
+      ]
+    },
+    {
+      "Tab": "Capital Link",
+      "Title": "Senior Frontend Developer (Part-Time)",
+      "Date": "Jul 2021 - Present ",
+      "Description": [
+        "Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout.",
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Verified all web-based products fulfilled prescribed project needs through direct interaction with stakeholders.",
+        "Pinpointed user experience issues to devise targeted suggestions for improving user experience."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Health Heroes",
+      "Description": "Fully functioned Application to assist Organizations for sharing Knowledge, Events, Media, News & Communicate Members under one Umbrella. developed using <span class='underline'>Angular</span>,<span class='underline'>Nodejs</span>, and <span class='underline'>Ionic 4</span>.",
+      "imgs": [
+        "assets/images/HealthHeroes/1.webp",
+        "assets/images/HealthHeroes/2.webp",
+        "assets/images/HealthHeroes/3.webp",
+        "assets/images/HealthHeroes/4.webp",
+        "assets/images/HealthHeroes/1.png",
+        "assets/images/HealthHeroes/2.png",
+        "assets/images/HealthHeroes/3.png",
+        "assets/images/HealthHeroes/4.png"
+      ],
+      "ghLink": "https://play.google.com/store/apps/details?id=com.meitstech.HH",
+      "demoLink": "https://meitstech.io:9999/",
+      "Technologies": [
+        "Ionic4",
+        "Angular",
+        "Nodejs"
+      ]
+    },
+    {
+      "Title": "WinjiGo",
+      "Description": "Learning Management System. developed using <span class='underline'>Angular</span>,<span class='underline'>Asp.net core</span>, and <span class='underline'>Angularjs</span>.",
+      "imgs": [
+        "assets/images/WinjiGo/1.png",
+        "assets/images/WinjiGo/2.png",
+        "assets/images/WinjiGo/3.png",
+        "assets/images/WinjiGo/4.png",
+        "assets/images/WinjiGo/5.png",
+        "assets/images/WinjiGo/6.png",
+        "assets/images/WinjiGo/7.png",
+        "assets/images/WinjiGo/8.png",
+        "assets/images/WinjiGo/9.png",
+        "assets/images/WinjiGo/10.png",
+        "assets/images/WinjiGo/11.png",
+        "assets/images/WinjiGo/12.png",
+        "assets/images/WinjiGo/13.png",
+        "assets/images/WinjiGo/14.png",
+        "assets/images/WinjiGo/15.png"
+      ],
+      "demoLink": "https://learn.winjigo.com/account/login",
+      "Technologies": [
+        "Angular",
+        "Angularjs",
+        "Asp.net core"
+      ]
+    },
+    {
+      "Title": "Meqati",
+      "Description": "Umrah & Hajj from inside Saudia Arabia. developed using <span class='underline'>Angular</span>,<span class='underline'>NestJs</span>, and <span class='underline'>Ionic4</span>.",
+      "imgs": [
+        "assets/images/Meqati/1.png",
+        "assets/images/Meqati/2.png",
+        "assets/images/Meqati/3.png",
+        "assets/images/Meqati/4.png",
+        "assets/images/Meqati/5.png",
+        "assets/images/Meqati/6.png",
+        "assets/images/Meqati/7.png",
+        "assets/images/Meqati/8.png",
+        "assets/images/Meqati/9.png",
+        "assets/images/Meqati/10.png",
+        "assets/images/Meqati/11.png"
+      ],
+      "demoLink": "https://meitstech.io:8888/",
+      "Technologies": [
+        "Angular",
+        "Ionic4",
+        "NestJs"
+      ]
+    },
+    {
+      "Title": "Bus Tracking",
+      "Description": "Bus Tracking App Integrated with Google Maps. developed using <span class='underline'>Angular</span>,<span class='underline'>NestJs</span>.",
+      "imgs": [
+        "assets/images/BusTracking/1.png",
+        "assets/images/BusTracking/2.png",
+        "assets/images/BusTracking/3.png",
+        "assets/images/BusTracking/4.png",
+        "assets/images/BusTracking/5.png",
+        "assets/images/BusTracking/6.png",
+        "assets/images/BusTracking/7.png",
+        "assets/images/BusTracking/8.png",
+        "assets/images/BusTracking/9.png",
+        "assets/images/BusTracking/10.png",
+        "assets/images/BusTracking/11.png",
+        "assets/images/BusTracking/12.png",
+        "assets/images/BusTracking/13.png"
+      ],
+      "demoLink": "http://allenapp.com/auth/login",
+      "ghLink": "http://admin.allenapp.com/login",
+      "Technologies": [
+        "Angular",
+        "NestJs"
+      ]
+    }
+  ],
+
+  "OtherProjects.Title": "More projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "simple-HIS-system",
+      "Description": "project performs various functions like Addition, removal, and update in the patient.",
+      "ghLink": "https://github.com/AhmedMobasher/simple-HIS-system",
+      "demoLink": "https://AhmedMobasher.github.io/simple-HIS-system/",
+      "Technologies": ["javaScript", "webpack", "knockout js", "Bootstrap"]
+    },
+    {
+      "Title": "js-warDeckGame",
+      "Description": "card game performs various functions like draw cards, shuffle, compare the card then checkWinner .",
+      "ghLink": "https://github.com/AhmedMobasher/js-warDeckGame",
+      "demoLink": "https://war-deck.netlify.app/",
+      "Technologies": [ "javaScript", "CSS", "HTML"]
+    },
+    {
+      "Title": "calculator",
+      "Description": "OOP calculator performs basic calculation functions.",
+      "ghLink": "https://github.com/AhmedMobasher/calculator",
+      "demoLink": "https://js-calculater.netlify.app/",
+      "Technologies": ["javaScript", "OOP", "CSS", "HTML"]
+    },
+    {
+      "Title": "slider",
+      "Description": "pure javaScript slider with get Prevues and next slide functionality.",
+      "ghLink": "https://github.com/AhmedMobasher/pureSlider",
+      "demoLink": "https://pureslider.netlify.app",
+      "Technologies": ["javaScript", "CSS", "Git"]
+    },
+    {
+      "Title": "iPortfolio Clone",
+      "Description": "bootstrap template with 6 servals sections and pretty design.",
+      "ghLink": "https://github.com/AhmedMobasher/iPortfolioClone",
+      "demoLink": "https://iportfolioclone.netlify.app",
+      "Technologies": ["bootstrap", "CSS", "HTML"]
+    },
+    {
+      "Title": "bezel clone",
+      "Description": "bootstrap template with 6 servals sections and pretty design.",
+      "ghLink": "https://github.com/AhmedMobasher/bootstrapExam",
+      "demoLink": "https://bootstrap7template.netlify.app/",
+      "Technologies": ["bootstrap", "CSS", "HTML"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+  "Contact.Btn": "Say Hello"
+}
